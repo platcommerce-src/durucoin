@@ -1,0 +1,11 @@
+.cache/
+.config/
+.gnupg/
+.local/
+.npm/
+.pm2/
+.profile
+.ssh/
+.bashrc
+.bash_logout
+.bash_history
